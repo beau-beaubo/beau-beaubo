@@ -11,7 +11,7 @@ Software Engineering Student
 
 I've have been code for 1 year and a half first i started with C language then start to learn html and css
 
-* 🧠  I'm year 1 software engineer student at Kasetsart University
+* 🧠  I'm year 2 software engineer student at Kasetsart University
 ###
 ### Skills
 
