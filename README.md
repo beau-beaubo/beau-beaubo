@@ -9,9 +9,7 @@ Software Engineering Student
   <img height="200" src="https://avatars.githubusercontent.com/u/146909289?s=400&u=da79a42aca169d24b67b16fca37c6ffed792ed18&v=4"  />
 </div>
 
-I've have been code for 1 year and a half first i started with C language then start to learn html and css
-
-* 🧠  I'm year 2 software engineer student at Kasetsart University
+* 🧠  I'm year 3 software engineer student at Kasetsart University
 ###
 ### Skills
 
